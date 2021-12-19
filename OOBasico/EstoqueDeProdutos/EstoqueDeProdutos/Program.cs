@@ -17,7 +17,7 @@ namespace EstoqueDeProdutos
             Console.Write("Quantidade do produto: ");
             p.Quantidade = int.Parse(Console.ReadLine());
             
-            Console.Write("Dados do produto: " + p + "\n\n");//método override com ToString por isso não preciso chamar cada atributo
+            Console.Write("Dados do produto: " + p + "\n\n");//método override com ToString NA CLASSE PRODUTO por isso não preciso chamar cada atributo
             
             Console.Write("Digite o número de produtos a ser adicionado: ");
             int qte = int.Parse(Console.ReadLine());
