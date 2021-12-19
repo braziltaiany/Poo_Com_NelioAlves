@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace EstoqueDeProdutos
 {
@@ -22,5 +23,10 @@ namespace EstoqueDeProdutos
                 $"{Quantidade} unidades, Total: R$" +
                 $"{ValorTotalEmEstoque().ToString(("F2"), CultureInfo.InvariantCulture)}";
         }
+        public void AdicionarProdutos(int quantidade)
+        {
+            Quantidade = Quantidade + quantidade;
+        }
+
     }
 }
