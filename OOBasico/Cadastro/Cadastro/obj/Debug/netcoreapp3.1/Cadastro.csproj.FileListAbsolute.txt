@@ -1,0 +1,14 @@
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.AssemblyReference.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache
