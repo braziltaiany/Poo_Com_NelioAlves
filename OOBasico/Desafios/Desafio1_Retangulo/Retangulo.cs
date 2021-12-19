@@ -13,5 +13,9 @@ namespace Desafio1_Retangulo
         {
             return Largura * Altura;
         }
+        public double Perimetro()
+        {
+            return (Largura * 2) + (Altura * 2);
+        }
     }
 }

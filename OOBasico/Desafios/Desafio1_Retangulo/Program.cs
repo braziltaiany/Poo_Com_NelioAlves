@@ -16,7 +16,8 @@ namespace Desafio1_Retangulo
             retangulo.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("AREA = " + retangulo.Area().ToString("F2",CultureInfo.InvariantCulture));
-           
+            Console.WriteLine("PERÍMETRO = " + retangulo.Perimetro().ToString("F2", CultureInfo.InvariantCulture));
+
         }
     }
 }
