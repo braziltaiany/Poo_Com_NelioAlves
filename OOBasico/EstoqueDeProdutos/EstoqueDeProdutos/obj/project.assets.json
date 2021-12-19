@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\EstoqueDeProdutos.csproj",
+      "projectUniqueName": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj",
       "projectName": "EstoqueDeProdutos",
-      "projectPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\EstoqueDeProdutos.csproj",
+      "projectPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj",
       "packagesPath": "C:\\Users\\brazi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\obj\\",
+      "outputPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\EstoqueDeProdutos\\EstoqueDeProdutos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

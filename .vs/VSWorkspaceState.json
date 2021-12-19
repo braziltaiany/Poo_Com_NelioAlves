@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OOBasico",
+    "\\OOBasico\\EstoqueDeProdutos",
+    "\\OOBasico\\EstoqueDeProdutos\\EstoqueDeProdutos"
   ],
-  "SelectedNode": "\\C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves",
+  "SelectedNode": "\\OOBasico\\EstoqueDeProdutos\\EstoqueDeProdutos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
