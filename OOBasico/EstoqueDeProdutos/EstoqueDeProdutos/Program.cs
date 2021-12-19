@@ -21,10 +21,14 @@ namespace EstoqueDeProdutos
             
             Console.Write("Digite o número de produtos a ser adicionado: ");
             int qte = int.Parse(Console.ReadLine());
-            p.AdicionarProdutos(qte);
-            
+            p.AdicionarProdutos(qte);            
+            Console.WriteLine("Dados do produto atualizado: " + p + "\n\n");
+
+            Console.Write("Digite o número de produtos a ser removido: ");
+            qte = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qte);
             Console.WriteLine("Dados do produto atualizado: " + p);
-            
+
 
 
 

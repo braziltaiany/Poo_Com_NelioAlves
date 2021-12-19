@@ -27,6 +27,9 @@ namespace EstoqueDeProdutos
         {
             Quantidade = Quantidade + quantidade;
         }
-
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade = Quantidade - quantidade;
+        }
     }
 }
