@@ -37,9 +37,6 @@ namespace Cadastro
             {
                 Console.WriteLine(p2.Nome);
             }
-
-
-
         }
     }
 }
