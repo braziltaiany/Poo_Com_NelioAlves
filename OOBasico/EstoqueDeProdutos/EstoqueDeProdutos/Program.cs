@@ -29,9 +29,6 @@ namespace EstoqueDeProdutos
             p.RemoverProdutos(qte);
             Console.WriteLine("Dados do produto atualizado: " + p);
 
-
-
-
         }
     }
 }
