@@ -17,8 +17,7 @@ namespace Cadastro
 
             Console.Write("Idade: ");
             p1.Idade = byte.Parse(Console.ReadLine());
-           
-            
+                       
             Console.WriteLine("\n DADOS DA SEGUNDA PESSOA");
             
             Console.Write("Nome: ");
