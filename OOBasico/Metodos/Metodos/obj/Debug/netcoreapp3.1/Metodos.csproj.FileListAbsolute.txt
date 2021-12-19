@@ -1,0 +1,14 @@
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.AssemblyReference.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.genruntimeconfig.cache

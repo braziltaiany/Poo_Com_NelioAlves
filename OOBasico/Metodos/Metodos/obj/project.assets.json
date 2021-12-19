@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\Metodos.csproj",
-      "projectName": "Metodos",
-      "projectPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\Metodos.csproj",
+      "projectUniqueName": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\EstoqueDeProdutos.csproj",
+      "projectName": "EstoqueDeProdutos",
+      "projectPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\EstoqueDeProdutos.csproj",
       "packagesPath": "C:\\Users\\brazi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\obj\\",
       "projectStyle": "PackageReference",
