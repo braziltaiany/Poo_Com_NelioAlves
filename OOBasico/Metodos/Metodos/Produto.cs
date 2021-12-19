@@ -4,7 +4,7 @@ using System.Text;
 using System.Globalization;
 
 
-namespace Metodos
+namespace EstoqueDeProdutos
 {
     class Produto
     {
