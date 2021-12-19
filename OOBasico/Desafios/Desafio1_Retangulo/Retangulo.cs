@@ -17,5 +17,9 @@ namespace Desafio1_Retangulo
         {
             return (Largura * 2) + (Altura * 2);
         }
+        public double Diagonal()
+        {
+            return Math.Sqrt((Math.Pow(Largura, 2.0)) + (Math.Pow(Altura, 2.0)));
+        }
     }
 }
