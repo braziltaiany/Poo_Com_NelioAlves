@@ -12,3 +12,17 @@ C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Funcionario
 C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.dll
 C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.pdb
 C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Cadastro\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.genruntimeconfig.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.exe
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.deps.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.dev.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.dll
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csproj.AssemblyReference.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfoInputs.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfo.cs
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.dll
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.genruntimeconfig.cache

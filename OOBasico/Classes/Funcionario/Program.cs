@@ -15,16 +15,16 @@ namespace Funcionario
             f1 = new Funcionario();
             f2 = new Funcionario();
             
-            Console.Write("Nome:");
+            Console.Write("Nome: ");
             f1.Nome = Console.ReadLine();
             
-            Console.Write("Salário:");
+            Console.Write("Salário: ");
             f1.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                         
-            Console.Write("nome:");
+            Console.Write("nome: ");
             f2.Nome = Console.ReadLine();
             
-            Console.Write("Salário:");
+            Console.Write("Salário: ");
             f2.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             
             sMedio = (f1.Salario + f2.Salario) / 2.0;

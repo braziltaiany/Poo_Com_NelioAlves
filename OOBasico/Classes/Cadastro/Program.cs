@@ -6,41 +6,36 @@ namespace Cadastro
     {
         static void Main(string[] args)
         {
-            int idadeP1=0, idadeP2=0, i= 0;
-            string nome1="", nome2="";
+            Pessoa p1, p2;
+           
+            p1 = new Pessoa();
+            p2 = new Pessoa();
 
-            Pessoa nome, idade;
-            nome = new Pessoa();
-            idade = new Pessoa();
+            Console.WriteLine(" DADOS DA PRIMEIRA PESSOA");
+            Console.Write("Nome: ");
+            p1.Nome = Console.ReadLine();           
 
-            Console.WriteLine("Escreva o nome:");
-            nome.Nome = Console.ReadLine();
-            nome1 = nome.Nome;
-
-            Console.WriteLine("Escreva a idade:");
-            idade.Idade = byte.Parse(Console.ReadLine());
-            idadeP1 = idade.Idade;
+            Console.Write("Idade: ");
+            p1.Idade = byte.Parse(Console.ReadLine());
+           
             
-            Console.WriteLine("\n ****************************************");
+            Console.WriteLine("\n DADOS DA SEGUNDA PESSOA");
             
-            Console.WriteLine("Escreva o nome:");
-            nome.Nome = Console.ReadLine();
-            nome2 = nome.Nome;
+            Console.Write("Nome: ");
+            p2.Nome = Console.ReadLine();
 
-            Console.WriteLine("Escreva a idade:");
-            idade.Idade = byte.Parse(Console.ReadLine());
-            idadeP2 = idade.Idade;
+            Console.Write("Idade: ");
+            p2.Idade = byte.Parse(Console.ReadLine());
             
-            Console.WriteLine("\n ****************************************");
             Console.Write("\n A pessoa mais velha é: ");
 
-            if (idadeP1 > idadeP2)
+            if (p1.Idade > p2.Idade)
             {
-                Console.WriteLine(nome1);
+                Console.WriteLine(p1.Nome);
             }
             else
             {
-                Console.WriteLine(nome2);
+                Console.WriteLine(p2.Nome);
             }
 
 

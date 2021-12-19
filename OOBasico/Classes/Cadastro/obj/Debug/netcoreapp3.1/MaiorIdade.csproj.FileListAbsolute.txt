@@ -1,0 +1,14 @@
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\bin\Debug\netcoreapp3.1\MaiorIdade.exe
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\bin\Debug\netcoreapp3.1\MaiorIdade.deps.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\bin\Debug\netcoreapp3.1\MaiorIdade.runtimeconfig.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\bin\Debug\netcoreapp3.1\MaiorIdade.runtimeconfig.dev.json
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\bin\Debug\netcoreapp3.1\MaiorIdade.dll
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\bin\Debug\netcoreapp3.1\MaiorIdade.pdb
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\obj\Debug\netcoreapp3.1\MaiorIdade.csproj.AssemblyReference.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\obj\Debug\netcoreapp3.1\MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\obj\Debug\netcoreapp3.1\MaiorIdade.AssemblyInfoInputs.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\obj\Debug\netcoreapp3.1\MaiorIdade.AssemblyInfo.cs
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\obj\Debug\netcoreapp3.1\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\obj\Debug\netcoreapp3.1\MaiorIdade.dll
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\obj\Debug\netcoreapp3.1\MaiorIdade.pdb
+C:\Users\brazi\Documents\MeuGIT\Poo_Com_NelioAlves\OOBasico\Classes\Cadastro\obj\Debug\netcoreapp3.1\MaiorIdade.genruntimeconfig.cache
