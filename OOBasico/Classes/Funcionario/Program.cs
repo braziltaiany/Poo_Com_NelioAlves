@@ -9,27 +9,25 @@ namespace Funcionario
         static void Main(string[] args)
         {
 
-            Funcionario nome, salario;
-            double x, y, sMedio;
+            Funcionario f1, f2;
+            double sMedio;
 
-            nome = new Funcionario();
-            salario = new Funcionario();
+            f1 = new Funcionario();
+            f2 = new Funcionario();
             
             Console.Write("Nome:");
-            nome.Nome = Console.ReadLine();
+            f1.Nome = Console.ReadLine();
             
             Console.Write("Salário:");
-            salario.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            x = salario.Salario;
-            
+            f1.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                        
             Console.Write("nome:");
-            nome.Nome = Console.ReadLine();
+            f2.Nome = Console.ReadLine();
             
             Console.Write("Salário:");
-            salario.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            y = salario.Salario;
-
-            sMedio = (x + y) / 2.0;
+            f2.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            
+            sMedio = (f1.Salario + f2.Salario) / 2.0;
 
             Console.WriteLine($"O salário médio = {sMedio.ToString("F2", CultureInfo.InvariantCulture)}");
         }

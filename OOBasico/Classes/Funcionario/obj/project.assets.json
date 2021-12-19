@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Cadastro\\Funcionario\\Funcionario.csproj",
+      "projectUniqueName": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Classes\\Funcionario\\Funcionario.csproj",
       "projectName": "Funcionario",
-      "projectPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Cadastro\\Funcionario\\Funcionario.csproj",
+      "projectPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Classes\\Funcionario\\Funcionario.csproj",
       "packagesPath": "C:\\Users\\brazi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Cadastro\\Funcionario\\obj\\",
+      "outputPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Classes\\Funcionario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

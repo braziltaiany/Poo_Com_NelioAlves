@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Classes\\Cadastro\\MaiorIdade.csproj",
-      "projectName": "MaiorIdade",
-      "projectPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Classes\\Cadastro\\MaiorIdade.csproj",
+      "projectUniqueName": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\Metodos.csproj",
+      "projectName": "Metodos",
+      "projectPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\Metodos.csproj",
       "packagesPath": "C:\\Users\\brazi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Classes\\Cadastro\\obj\\",
+      "outputPath": "C:\\Users\\brazi\\Documents\\MeuGIT\\Poo_Com_NelioAlves\\OOBasico\\Metodos\\Metodos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
