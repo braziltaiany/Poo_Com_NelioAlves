@@ -4,11 +4,11 @@
     {
         public string Name { get; set; }
 
-        Department()
+        public Department()
         {
         }
 
-        Department(string name)
+        public Department(string name)
         {
             Name = name;
         }
