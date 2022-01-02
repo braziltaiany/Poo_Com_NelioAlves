@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using WorkerContracts.Entities.Enums;
 
 namespace WorkerContracts.Entities
@@ -33,6 +31,7 @@ namespace WorkerContracts.Entities
         public double Income(int year, int month)
         {
             double sum = BaseSalary;
+            
             foreach(HourContract contract in Contracts)
             {
                 if (contract.Date.Year == year && contract.Date.Month == month)
