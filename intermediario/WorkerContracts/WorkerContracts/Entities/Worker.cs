@@ -21,5 +21,14 @@ namespace WorkerContracts.Entities
             Department = department;
         }
 
+        public void AddContrat(HourContract contract)
+        {
+            Contracts.Add(contract);
+        }
+        public void RemoveContrat(HourContract contract)
+        {
+            Contracts.Remove(contract);
+        }
+
     }
 }

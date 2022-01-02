@@ -17,7 +17,7 @@ namespace WorkerContracts.Entities
             ValuePerHour = valuePerHour;
             Hours = hours;
         }
-        public double totalValue()
+        public double TotalValue()
         {
             return Hours * ValuePerHour;
         }
