@@ -12,5 +12,12 @@ namespace DesafioPedido.Entities
         public Client Client { get; set; }
         public List<OrderItem> Items { get; set; } = new List<OrderItem>();
 
+        public Order(DateTime moment, OrderStatus status, Client client)
+        {
+            Moment = moment;
+            Status = status;
+            Client = client;
+        }
+
     }
 }
