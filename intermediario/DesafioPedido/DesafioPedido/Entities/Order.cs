@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using DesafioPedido.Entities.Enums;
+using DesafioPedido.Entities;
 
 namespace DesafioPedido.Entities
 {
@@ -19,5 +20,54 @@ namespace DesafioPedido.Entities
             Client = client;
         }
 
+        public void AddItem(OrderItem item)
+        {
+            Items.Add(item);
+        }
+        public void RemoveItem(OrderItem item)
+        {
+            Items.Remove(item);
+        }
+        public double total()
+        {
+            double sum = 0;
+
+            foreach(OrderItem item in Items)
+            {
+                sum += item.subTotal();
+            }
+
+            return sum;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine("ORDER SUMMARY:");
+            sb.Append("Order moment: ");
+            sb.AppendLine(Moment.ToString("G"));
+            sb.Append("Order status: ");
+            sb.AppendLine(Status.ToString());
+            sb.Append("Client: ");
+            sb.AppendLine(Client.Name);
+            sb.Append(" - ");
+            sb.Append(Client.Email);
+            sb.AppendLine("Order items:");
+            
+            foreach(OrderItem item in Items)
+            {
+                foreach(Products product in item.Product)
+                {
+                    sb.AppendLine($"{product.Name}, ${product.Price}, Quantity: {item.Quantify}, Subtotal: ${item.subTotal()}");
+                }
+                 
+            }
+            sb.Append("Total price: ");
+            sb.Append(total());
+
+            return sb.ToString();
+
+        }
     }
 }
