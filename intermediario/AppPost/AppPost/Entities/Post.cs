@@ -14,7 +14,7 @@ namespace AppPost.Entities
 
         public Post(DateTime moment, string title, string content, int likes)
         {
-            Moment = Moment;
+            Moment = moment;
             Title = title;
             Content = content;
             Likes = likes;
@@ -35,18 +35,18 @@ namespace AppPost.Entities
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(Title);
             sb.Append(Likes);
-            sb.Append(" Likes - 2");
+            sb.Append(" Likes - ");
             sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
             sb.AppendLine(Content);
             sb.AppendLine("Comments:");
-            
-            foreach(Comment comment in Comments)
+
+            foreach (Comment comment in Comments)
             {
                 sb.AppendLine(comment.Text);
             }
 
             return sb.ToString();
-            
+
         }
     }
 }

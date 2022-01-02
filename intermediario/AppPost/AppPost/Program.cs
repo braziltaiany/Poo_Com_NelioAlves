@@ -22,14 +22,15 @@ namespace AppPost
             Comment c4 = new Comment("May the Force be with you");
 
             Post p2 = new Post(
-                DateTime.Parse(" 28/07/2018 23:14:19"),
+                DateTime.Parse("28/07/2018 23:14:19"),
                 "Good night guys",
                 "See you tomorrow",
                 5);
             p2.AddComment(c3);
             p2.AddComment(c4);
 
-
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
         }
     }
 }
