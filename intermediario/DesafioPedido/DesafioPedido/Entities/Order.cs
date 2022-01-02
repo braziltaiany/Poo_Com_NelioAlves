@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using DesafioPedido.Entities.Enums;
-using DesafioPedido.Entities;
+using System.Globalization;
 
 namespace DesafioPedido.Entities
 {
@@ -50,21 +50,22 @@ namespace DesafioPedido.Entities
             sb.Append("Order status: ");
             sb.AppendLine(Status.ToString());
             sb.Append("Client: ");
-            sb.AppendLine(Client.Name);
+            sb.Append(Client.Name);
             sb.Append(" - ");
-            sb.Append(Client.Email);
+            sb.AppendLine(Client.Email);
             sb.AppendLine("Order items:");
             
             foreach(OrderItem item in Items)
             {
                 foreach(Products product in item.Product)
                 {
-                    sb.AppendLine($"{product.Name}, ${product.Price}, Quantity: {item.Quantify}, Subtotal: ${item.subTotal()}");
+                    sb.AppendLine($"{product.Name}, ${product.Price}, Quantity: {item.Quantity}, Subtotal: ${item.subTotal()}");
                 }
                  
             }
+
             sb.Append("Total price: ");
-            sb.Append(total());
+            sb.Append(total().ToString("F2",CultureInfo.InvariantCulture));
 
             return sb.ToString();
 

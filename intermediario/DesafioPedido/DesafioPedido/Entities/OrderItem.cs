@@ -7,7 +7,7 @@ namespace DesafioPedido.Entities
 {
     class OrderItem
     {
-        public int Quantify { get; set; }
+        public int Quantity { get; set; }
         public double Price { get; set; }
         public List<Products> Product { get; set; } = new List<Products>();
 
@@ -15,15 +15,25 @@ namespace DesafioPedido.Entities
         {
         }
 
-        public OrderItem(int quantify, double price)
+        public OrderItem(int quantity, double price)
         {
-            Quantify = quantify;
+            Quantity = quantity;
             Price = price;
         }
 
         public double subTotal()
         {
-            return Quantify * Price;
+            return Quantity * Price;
+        }
+
+        public void AddProduct(Products product)
+        {
+            Product.Add(product);
+        }
+        public void RemoveProduct(Products product)
+        {
+            Product.Remove(product);
         }
     }
+
 }

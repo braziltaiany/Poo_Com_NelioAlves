@@ -20,5 +20,6 @@ namespace DesafioPedido.Entities
             Email = email;
             BirthDate = birthDate;
         }
+
     }
 }
