@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace WorkerContracts.Entities
 {
@@ -18,6 +16,10 @@ namespace WorkerContracts.Entities
             Date = date;
             ValuePerHour = valuePerHour;
             Hours = hours;
+        }
+        public double totalValue()
+        {
+            return Hours * ValuePerHour;
         }
     }
 }
