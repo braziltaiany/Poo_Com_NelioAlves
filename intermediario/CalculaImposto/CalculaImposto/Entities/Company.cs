@@ -15,11 +15,11 @@ namespace CalculaImposto.Entities
         {
             if(NumberOfEmployees < 10)
             {
-                return AnualIconme * 1.16;
+                return AnualIconme * 0.16;
             }
             else
             {
-                return AnualIconme * 1.14;
+                return AnualIconme * 0.14;
             }
            
         }

@@ -14,7 +14,7 @@ namespace CalculaImposto.Entities
 
         public override double Tax()
         {
-            return AnualIconme * 1.25 - HealthExpenditures * 1.5;
+            return AnualIconme * 0.25 - HealthExpenditures * 0.5;
         }
     }
 }
