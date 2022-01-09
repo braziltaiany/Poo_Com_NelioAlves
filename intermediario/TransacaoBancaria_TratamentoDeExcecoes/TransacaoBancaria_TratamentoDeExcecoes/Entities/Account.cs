@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using TransacaoBancaria_TratamentoDeExcecoes.Entities.Exceptions;
 
 namespace TransacaoBancaria_TratamentoDeExcecoes.Entities
 {
@@ -26,6 +27,15 @@ namespace TransacaoBancaria_TratamentoDeExcecoes.Entities
 
         public void Withdraw(double amount)
         {
+            if(Balance < amount)
+            {
+                throw new DomainExcepiton("Withdraw error: Not enough balance");
+            }
+            if (WithdrawLimit > amount)
+            {
+                throw new DomainExcepiton("Withdraw error: The amount exceeds withdraw limit");
+            }
+
             Balance -= amount;
         }
     }
