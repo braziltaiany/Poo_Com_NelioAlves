@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TransacaoBancaria_TratamentoDeExcecoes.Entities.Exceptions
 {
-    class DomainExcepiton : AplicationExeption
+    class DomainExcepiton : ApplicationException 
     {
         public DomainExcepiton(string message) : base(message)
         {

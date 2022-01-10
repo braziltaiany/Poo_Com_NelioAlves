@@ -12,7 +12,7 @@ namespace TransacaoBancaria_TratamentoDeExcecoes.Entities
         public double Balance { get; set; }
         public double WithdrawLimit { get; set; }
 
-        public Account(int number, string holder, double balance,double withdrawLimit)
+        public Account(int number, string holder, double balance, double withdrawLimit)
         {
             Number = number;
             Holder = holder;
@@ -27,11 +27,11 @@ namespace TransacaoBancaria_TratamentoDeExcecoes.Entities
 
         public void Withdraw(double amount)
         {
-            if(Balance < amount)
+            if (Balance < amount)
             {
                 throw new DomainExcepiton("Withdraw error: Not enough balance");
             }
-            if (WithdrawLimit > amount)
+            if (WithdrawLimit < amount)
             {
                 throw new DomainExcepiton("Withdraw error: The amount exceeds withdraw limit");
             }
